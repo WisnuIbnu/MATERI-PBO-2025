@@ -1,0 +1,2 @@
+hello word
+Ini adalah file handling atau create file/ read file/ write file
